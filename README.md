@@ -15,11 +15,11 @@ This app for Spring 2025 CPSC 5330 Assignment #5:
 5. The application should run for all size classes, including iPads, and for the landscape orientation.
 
 ## Initial View State
-
+<img src="https://github.com/dsample001/CPSC5330-Assignment-5/blob/main/Docs/Start-Screen.png?raw=true" width="200">
 
 
 ## Found Treasure
-
+<img src="https://github.com/dsample001/CPSC5330-Assignment-5/blob/main/Docs/You-Win-Screen.png?raw=true" width="200">
 
 
 ## Lost Start Over
