@@ -23,5 +23,5 @@ This app for Spring 2025 CPSC 5330 Assignment #5:
 
 
 ## Lost Start Over
-
+<img src="https://github.com/dsample001/CPSC5330-Assignment-5/blob/main/Docs/You-Lost-Screen-1.png?raw=true" width="200">
 
